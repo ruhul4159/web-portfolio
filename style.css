@@ -7,3 +7,13 @@ h2{
 .name-highlight{
     color: orange;
 }
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    margin-top: 5%;
+    padding-left: 3%;
+}
+.half-width img{
+    width: 80%;
+}
